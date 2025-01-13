@@ -13,7 +13,7 @@ def download_image(image_url, model, image_num):
 promptz = input("Enter your prompt: ")
 
 # Image models to use
-models = ['flux', 'flux-realism', 'flux-anime', 'flux-3d', 'anydark', 'turbo']
+models = ['flux', 'flux-realism', 'flux-cablyai', 'flux-anime', 'flux-3d', 'any-dark', 'flux-pro', 'turbo']
 
 # Image dimensions
 width = 768
